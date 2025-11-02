@@ -1,0 +1,98 @@
+{
+    "title": "The Global Hub for Indie Hackers",
+    "description": "Welcome to the global hub for indie hackers. Connect, share experiences, and discover tools and resources for building amazing products.",
+    "homeTab": "Home",
+    "blogTab": "Blog",
+    "blogTitle": "Developer Blog",
+    "readMore": "Read More",
+    "backToBlog": "Back to Blog",
+    "publishedOn": "Published on",
+    "noPosts": "No blog posts available",
+    "loading": "Loading...",
+    "aboutTab": "About Us",
+    "aboutTitle": "About Us",
+    "aboutDescription": "Learn more about our indie hacker community",
+    "whyChooseTitle": "Why Join Our Indie Hacker Community?",
+    "feature1Title": "Global Network",
+    "feature1Description": "Connect with indie hackers worldwide, share experiences and learn from each other",
+    "feature2Title": "Resource Sharing",
+    "feature2Description": "Discover tools, frameworks, and best practices from successful indie hackers",
+    "feature3Title": "Support & Growth",
+    "feature3Description": "Get support, feedback, and guidance to grow your independent development journey",
+    "pageTitle": "The Global Hub for Indie Hackers",
+    "blogDescription": "Insights, tips, and stories from the indie hacker community. Learn from successful indie developers and share your journey.",
+    "copyright": "© 2025 • The Global Hub for Indie Hackers All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "relatedToolsTitle": "Developer Tools",
+    "relatedToolsDescription": "Essential tools and resources for indie hackers",
+    "visitTool": "Visit Tool",
+    "relatedToolsNote": "These tools are provided by third parties. Please review their terms and privacy policies before use.",
+    "toolsPageTitle": "Essential Tools for Indie Hackers",
+    "toolsPageSubtitle": "Discover powerful tools for development, design, and business",
+    "toolsPageDescription": "Enhance your independent development workflow with these essential tools. From code editors to design tools, find everything you need to build and launch your products.",
+    "faqTitle": "Frequently Asked Questions",
+    "faq1Question": "What tools are essential for indie hackers?",
+    "faq1Answer": "Our recommended tools include code editors, design tools, project management platforms, and deployment services that help indie hackers build and launch products efficiently.",
+    "faq2Question": "Are these tools free to use?",
+    "faq2Answer": "Most of our recommended tools offer free tiers or are completely free. Check each tool's website for specific pricing details.",
+    "seoContent": "These carefully selected developer tools are designed to help indie hackers build, launch, and grow their products successfully.",
+    "relatedTools": [
+      {
+        "name": "View Multiple Images",
+        "description": "Free online tool to view multiple images side by side",
+        "url": "https://www.view-multiple-images.com/",
+        "icon": "🖼️",
+        "logo": "https://www.view-multiple-images.com/favicon.ico"
+      },
+      {
+        "name": "Figma",
+        "description": "Collaborative interface design tool",
+        "url": "https://www.figma.com/",
+        "icon": "🎨",
+        "logo": "https://www.figma.com/favicon.ico"
+      },
+      {
+        "name": "GitHub",
+        "description": "Code hosting platform for version control and collaboration",
+        "url": "https://github.com/",
+        "icon": "🐙",
+        "logo": "https://github.com/favicon.ico"
+      },
+      {
+        "name": "Vercel",
+        "description": "Deploy and host your applications with ease",
+        "url": "https://vercel.com/",
+        "icon": "▲",
+        "logo": "https://vercel.com/favicon.ico"
+      },
+      {
+        "name": "Notion",
+        "description": "All-in-one workspace for notes, docs, and project management",
+        "url": "https://www.notion.so/",
+        "icon": "📝",
+        "logo": "https://www.notion.so/favicon.ico"
+      },
+      {
+        "name": "Stripe",
+        "description": "Online payment processing for businesses",
+        "url": "https://stripe.com/",
+        "icon": "💳",
+        "logo": "https://stripe.com/favicon.ico"
+      },
+      {
+        "name": "Linear",
+        "description": "Modern issue tracking and project management",
+        "url": "https://linear.app/",
+        "icon": "📊",
+        "logo": "https://linear.app/favicon.ico"
+      },
+      {
+        "name": "Tailwind CSS",
+        "description": "Utility-first CSS framework for rapid UI development",
+        "url": "https://tailwindcss.com/",
+        "icon": "🎨",
+        "logo": "https://tailwindcss.com/favicon.ico"
+      }
+    ]
+  }

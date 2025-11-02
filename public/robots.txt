@@ -1,0 +1,35 @@
+# Robots.txt for One Point Star - The Global Hub for Indie Hackers
+User-agent: *
+Allow: /
+
+# 重要页面 - 按优先级排序
+Allow: /en/
+Allow: /zh/
+Allow: /en/blog
+Allow: /zh/blog
+Allow: /en/tools
+Allow: /zh/tools
+Allow: /en/about
+Allow: /zh/about
+
+# 博客文章详情页
+Allow: /en/blog/*
+Allow: /zh/blog/*
+
+# 静态资源
+Allow: /_next/static/
+Allow: /favicon.ico
+Allow: /robots.txt
+Allow: /sitemap.xml
+
+# 禁止爬取的文件
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /private/
+
+# 爬取延迟（可选）
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://www.onepointstar.com/sitemap.xml

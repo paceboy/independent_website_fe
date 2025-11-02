@@ -1,0 +1,98 @@
+{
+    "title": "独立开发者全球聚集地",
+    "description": "欢迎来到独立开发者全球聚集地。连接全球独立开发者，分享经验，发现构建优秀产品的工具和资源。",
+    "homeTab": "首页",
+    "blogTab": "博客",
+    "blogTitle": "开发者博客",
+    "readMore": "阅读更多",
+    "backToBlog": "返回博客",
+    "publishedOn": "发布于",
+    "noPosts": "暂无博客文章",
+    "loading": "加载中...",
+    "aboutTab": "关于我们",
+    "aboutTitle": "关于我们",
+    "aboutDescription": "了解我们的独立开发者社区",
+    "whyChooseTitle": "为什么加入我们的独立开发者社区？",
+    "feature1Title": "全球网络",
+    "feature1Description": "与全球独立开发者建立联系，分享经验，相互学习",
+    "feature2Title": "资源共享",
+    "feature2Description": "发现成功独立开发者的工具、框架和最佳实践",
+    "feature3Title": "支持与成长",
+    "feature3Description": "获得支持、反馈和指导，助力你的独立开发之旅",
+    "pageTitle": "独立开发者全球聚集地",
+    "blogDescription": "来自独立开发者社区的见解、技巧和故事。向成功的独立开发者学习，分享你的旅程。",
+    "copyright": "© 2025 • 独立开发者全球聚集地 版权所有",
+    "privacyPolicy": "隐私政策",
+    "termsOfService": "服务条款",
+    "relatedToolsTitle": "开发者工具",
+    "relatedToolsDescription": "独立开发者必备的工具和资源",
+    "visitTool": "访问工具",
+    "relatedToolsNote": "这些工具由第三方提供。使用前请查看其条款和隐私政策。",
+    "toolsPageTitle": "独立开发者必备工具",
+    "toolsPageSubtitle": "发现强大的开发、设计和商业工具",
+    "toolsPageDescription": "通过这些必备工具增强你的独立开发工作流程。从代码编辑器到设计工具，找到构建和发布产品所需的一切。",
+    "faqTitle": "常见问题",
+    "faq1Question": "独立开发者需要哪些必备工具？",
+    "faq1Answer": "我们推荐的工具包括代码编辑器、设计工具、项目管理平台和部署服务，帮助独立开发者高效构建和发布产品。",
+    "faq2Question": "这些工具是免费的吗？",
+    "faq2Answer": "我们推荐的大多数工具都提供免费版本或完全免费。请查看每个工具的网站了解具体定价详情。",
+    "seoContent": "这些精心挑选的开发者工具专为帮助独立开发者成功构建、发布和增长产品而设计。",
+    "relatedTools": [
+      {
+        "name": "View Multiple Images",
+        "description": "免费在线工具，可并排查看多张图片",
+        "url": "https://www.view-multiple-images.com/",
+        "icon": "🖼️",
+        "logo": "https://www.view-multiple-images.com/favicon.ico"
+      },
+      {
+        "name": "Figma",
+        "description": "协作式界面设计工具",
+        "url": "https://www.figma.com/",
+        "icon": "🎨",
+        "logo": "https://www.figma.com/favicon.ico"
+      },
+      {
+        "name": "GitHub",
+        "description": "代码托管平台，用于版本控制和协作",
+        "url": "https://github.com/",
+        "icon": "🐙",
+        "logo": "https://github.com/favicon.ico"
+      },
+      {
+        "name": "Vercel",
+        "description": "轻松部署和托管你的应用程序",
+        "url": "https://vercel.com/",
+        "icon": "▲",
+        "logo": "https://vercel.com/favicon.ico"
+      },
+      {
+        "name": "Notion",
+        "description": "一体化工作空间，用于笔记、文档和项目管理",
+        "url": "https://www.notion.so/",
+        "icon": "📝",
+        "logo": "https://www.notion.so/favicon.ico"
+      },
+      {
+        "name": "Stripe",
+        "description": "企业在线支付处理平台",
+        "url": "https://stripe.com/",
+        "icon": "💳",
+        "logo": "https://stripe.com/favicon.ico"
+      },
+      {
+        "name": "Linear",
+        "description": "现代化问题跟踪和项目管理",
+        "url": "https://linear.app/",
+        "icon": "📊",
+        "logo": "https://linear.app/favicon.ico"
+      },
+      {
+        "name": "Tailwind CSS",
+        "description": "实用优先的CSS框架，用于快速UI开发",
+        "url": "https://tailwindcss.com/",
+        "icon": "🎨",
+        "logo": "https://tailwindcss.com/favicon.ico"
+      }
+    ]
+  }
